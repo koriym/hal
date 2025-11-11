@@ -1,7 +1,7 @@
 Nocarrier\Hal
 =============
 
-> **Note**: This is a temporary fork to provide PHP 8.2+ support while [PR #64](https://github.com/blongden/hal/pull/64) is pending review. This repository will likely become permanent if the upstream remains unmaintained.
+> **Note**: This is a temporary fork to provide PHP 8.2+ support while [PR #64](https://github.com/blongden/hal/pull/64) is pending review.
 
 [![CI](https://github.com/koriym/hal/actions/workflows/ci.yml/badge.svg)](https://github.com/koriym/hal/actions/workflows/ci.yml)
 
