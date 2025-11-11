@@ -1,12 +1,13 @@
 Nocarrier\Hal
 =============
 
-[![CI](https://github.com/blongden/hal/actions/workflows/ci.yml/badge.svg)](https://github.com/blongden/hal/actions/workflows/ci.yml)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/blongden/hal/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/blongden/hal/?branch=master)
+> **Note**: This is a temporary fork to provide PHP 8.2+ support while [PR #64](https://github.com/blongden/hal/pull/64) is pending review. This repository will likely become permanent if the upstream remains unmaintained.
+
+[![CI](https://github.com/koriym/hal/actions/workflows/ci.yml/badge.svg)](https://github.com/koriym/hal/actions/workflows/ci.yml)
 
 This is a library for creating documents in the [application/hal+json and application/hal+xml][1] hypermedia formats
 
-It requires PHP 5.4 or later.
+It requires PHP 8.2 or later.
 
 ```php
 <?php
